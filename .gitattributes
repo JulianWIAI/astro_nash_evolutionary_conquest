@@ -1,0 +1,18 @@
+# Normalize all text files to LF in the repository
+* text=auto eol=lf
+
+# Explicit text files
+*.py        text eol=lf
+*.md        text eol=lf
+*.txt       text eol=lf
+*.json      text eol=lf
+.gitignore  text eol=lf
+
+# Binary assets — never touch line endings
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.ico    binary
+*.mp3    binary
+*.wav    binary
+*.ogg    binary
