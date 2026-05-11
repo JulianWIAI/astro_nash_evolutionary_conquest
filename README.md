@@ -89,6 +89,12 @@ astro-nash_evolutionary_conquest/
 
 ---
 
+## AI Disclaimer
+
+This project was developed **in cooperation with AI tools**. Game design, logic, and programming were authored by Julian Gast; [Claude Code](https://claude.ai/code) (Anthropic) assisted with code generation, debugging, and architecture decisions throughout development. The soundtrack was generated with AI music tools.
+
+---
+
 ## Credits
 
 **Game Design & Programming** — Julian Gast  
